@@ -1,3 +1,11 @@
-*{
-background: green;
+* {
+    background: green;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
 }
